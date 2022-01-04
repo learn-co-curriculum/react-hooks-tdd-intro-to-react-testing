@@ -3,6 +3,7 @@
 ## Learning Goals
 
 - Identify the testing tools included with Create React App
+- Debug React components during testing
 
 ## Introduction
 
