@@ -1,4 +1,4 @@
-# Intro to React Testing
+# Intro to React Testing Codealong
 
 ## Learning Goals
 
